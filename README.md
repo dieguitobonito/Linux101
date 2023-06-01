@@ -16,4 +16,4 @@
 
 ## Canales
 - [Chris Titus Tech](https://www.youtube.com/@ChrisTitusTech)
-- [Karla's Project] (https://www.youtube.com/@KarlasProject/videos)
+- [Karla's Project](https://www.youtube.com/@KarlasProject/videos)
