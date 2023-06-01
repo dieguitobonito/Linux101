@@ -17,3 +17,5 @@
 ## Canales
 - [Chris Titus Tech](https://www.youtube.com/@ChrisTitusTech)
 - [Karla's Project](https://www.youtube.com/@KarlasProject/videos)
+- [The Linux Experiment](https://www.youtube.com/@TheLinuxEXP)
+- [DistroTube](https://www.youtube.com/@DistroTube)
